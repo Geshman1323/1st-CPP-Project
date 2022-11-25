@@ -12,6 +12,7 @@ int main()
     // DataTypes ----> LONG , INT , CHAR , STRING , FLOAT , DOUBLE , bool , Long Double .etc.
     // print Method and Geting Input method what ever you say
     // Operaters Including Arithmatic , Logical , assignment , comparison .etc.
+    // Basically most of the things i've learnt is similar to previous languages I have learnt in the past
     
     int num1 ,num2;
     string name;
