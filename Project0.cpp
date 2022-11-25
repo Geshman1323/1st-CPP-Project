@@ -1,11 +1,8 @@
-// my first Program
-// This will Include header file
-#include <iostream>
+#include <iostream> /* This Will Include a Library / header file to our current project or document this header file is called input output stream */
 
-using namespace std;
+using namespace std; /* Namspaces dosen't discover yet */
 
-// this is the main is function needed to run this program
-int main()
+int main() /* All code inside this function would be excuted first and given priority */
 {
     // Concept Decover
     // Basics Intro of C++
