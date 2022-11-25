@@ -4,7 +4,7 @@ using namespace std; /* Namspaces dosen't discover yet */
 
 int main() /* All code inside this function would be excuted first and given priority */
 {
-    // Concept Decover
+    // Concept covered
     // Basics Intro of C++
     // DataTypes ----> LONG , INT , CHAR , STRING , FLOAT , DOUBLE , bool , Long Double .etc.
     // print Method and Geting Input method what ever you say
