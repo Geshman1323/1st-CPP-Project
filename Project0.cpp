@@ -5,7 +5,10 @@ using namespace std; /* Namspaces dosen't discover yet */
 int main() /* All code inside this function would be excuted first and given priority */
 {
     // Concept covered
-    // Basics Intro of C++
+    // Basics Intro of C++ that is as follow
+    // it is low level , fast , OOP-programming language developed by  Bjarne Stroustrup in 1979 and he named it in 1983 as C++
+    // it was made first as an extension of C to increase its capabilties
+    // this language is use to make game engine like unreal use this language moreover it is use to make very very fast programs
     // DataTypes ----> LONG , INT , CHAR , STRING , FLOAT , DOUBLE , bool , Long Double .etc.
     // print Method and Geting Input method what ever you say
     // Operaters Including Arithmatic , Logical , assignment , comparison .etc.
