@@ -7,7 +7,11 @@ using namespace std;
 // this is the main is function needed to run this program
 int main()
 {
-    // DataTypes ----> LONG, INT , CHAR , STRING , FLOAT , DOUBLE , bool
+    // Concept Decover
+    // Basics Intro of C++
+    // DataTypes ----> LONG , INT , CHAR , STRING , FLOAT , DOUBLE , bool , Long Double .etc.
+    // print Method and Geting Input method what ever you say
+    // Operaters Including Arithmatic , Logical , assignment , comparison .etc.
     
     int num1 ,num2;
     string name;
